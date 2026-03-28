@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1755486647124097538
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8156410461501105766}
+  - component: {fileID: 6143706485818990911}
+  m_Layer: 0
+  m_Name: StickerbookManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8156410461501105766
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1755486647124097538}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6143706485818990911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1755486647124097538}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08d69036c09dd7849a6e0762b1fd677b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _uiManager: {fileID: 0}
+  _book: {fileID: 0}
+  _mainRenderTexture: {fileID: 8400000, guid: 5ee2a8cb2b538234cb1e319bc6c5426b, type: 2}
+  _secondaryRenderTexture: {fileID: 8400000, guid: f1c4c653a1b280041b4412489c474925, type: 2}
+  _offset: {x: 0, y: 0, z: -70}
+  _worldObjects:
+  - pageIndex: 0
+    uiKey: SettingsMenu_UI
+  - pageIndex: 2
+    uiKey: MainMenu_UI
+  - pageIndex: 4
+    uiKey: PlayerCustomizationMenu_GameObjects
+  - pageIndex: 4
+    uiKey: PlayerCustomizationMenu_UI
+  - pageIndex: 6
+    uiKey: CharacterSelectionMenu_GameObjects
+  - pageIndex: 6
+    uiKey: CharacterSelectionMenu_UI
+  - pageIndex: 6
+    uiKey: CharacterSelectionMenu_Stickers
+  _stickerObjects:
+  - pageIndex: 4
+    uiObj: {fileID: 0}
+  - pageIndex: 6
+    uiObj: {fileID: 0}
+  - pageIndex: 2
+    uiObj: {fileID: 0}
+  - pageIndex: 4
+    uiObj: {fileID: 0}
+  - pageIndex: 6
+    uiObj: {fileID: 0}
+  - pageIndex: 0
+    uiObj: {fileID: 0}

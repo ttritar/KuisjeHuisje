@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StickerbookUI_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 5c91720e09153d14987c18572d4d3fc3, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 111174930432
+    m_Localized: Jouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18293533102080
+    m_Localized: "C\u2019est moi!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19033068589056
+    m_Localized: "Pr\xEAt!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89155883945984
+    m_Localized: "Cr\xE9e ton monde!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365498748030976
+    m_Localized: Continuer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 365799790006272
+    m_Localized: Menu principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366014618062848
+    m_Localized: Quitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366147090960384
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 372939602710528
+    m_Localized: "Fran\xE7ais"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 373882750685184
+    m_Localized: Quitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5090358569127936
+    m_Localized: Faites-en au moins 5!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10223842808463360
+    m_Localized: Chargement...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

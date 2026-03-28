@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MI_Hedge_Leaves_Snow
+  m_Shader: {fileID: -6465566751694194690, guid: dd845d4630ed2ad46a3a1b48dd8e8129, type: 3}
+  m_Parent: {fileID: 2100000, guid: ee616cd8acb18404b8b52861b0b13ba8, type: 2}
+  m_ModifiedSerializedProperties: 2
+  m_ValidKeywords:
+  - _CHANEL_MASK_MASK_R
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Grass_mask:
+        m_Texture: {fileID: 2800000, guid: 5b12e4c9f65d99f45b32d5835664613c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _CHANEL_MASK: 0
+    - _Wiggle_Offset: 0.178
+    - _Wind_Strength: 0.03
+    m_Colors:
+    - _Gradient: {r: 0.9, g: 1.89, b: 0, a: 0}
+    - _Grass_color: {r: 0.93004626, g: 0.9433962, b: 0.9408405, a: 0}
+    - _Grass_color_root: {r: 0.833926, g: 0.8396226, b: 0.81189924, a: 0}
+    - _Grass_color_variant: {r: 1, g: 1, b: 1, a: 0}
+    - _Wind_Direction: {r: 1, g: 0, b: 0, a: 0}
+    - _variation: {r: 0.74, g: 6.27, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &1464288298625942662
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 10

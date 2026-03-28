@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 52453af2f8af242448832851e6d2a395
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - treePrefabHappy: {fileID: 3194896896655576623, guid: 75e9f6c724334bf4799b4565d06dfaa8, type: 3}
+  - treePrefabHappySmall: {fileID: 5035509257750532582, guid: f477f8e51f850044d933cc1ee612fadb, type: 3}
+  - treePrefabSad: {fileID: 3402272933458808601, guid: ad41b5aca01ad50438272b637119d584, type: 3}
+  - treePrefabSadSmall: {fileID: 8384708832617079583, guid: 4a7fec10439e4a3478e9c3f9b11def9c, type: 3}
+  - treePrefabAngry: {fileID: 4573411446283127649, guid: db7255de3951e2a42aebaca0e741ed9a, type: 3}
+  - treePrefabAngrySmall: {fileID: 5263872604925692462, guid: 52e74e7780f85874e808c99a86224257, type: 3}
+  - treePositionsParent: {fileID: 970453570220021069, guid: 2dc414504d7ae4d4b9ee7f007aba329e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

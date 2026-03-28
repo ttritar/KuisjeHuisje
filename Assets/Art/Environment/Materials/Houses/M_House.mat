@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3241318077860424520
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 10
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_House
+  m_Shader: {fileID: -6465566751694194690, guid: fee11943f2b8f8c4192e927ac001fd4c, type: 3}
+  m_Parent: {fileID: 2100000, guid: 182f8da04e2d49c498b37281cbe2418a, type: 2}
+  m_ModifiedSerializedProperties: 2
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseTex:
+        m_Texture: {fileID: 2800000, guid: 1cfb7d9a15b98da41be82b4d732ef32c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emmissive_map:
+        m_Texture: {fileID: 2800000, guid: cd046b11d13cd2240bb813a894d194ad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMap:
+        m_Texture: {fileID: 2800000, guid: fdf0d92fc40fe504581c732014b115f5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTexture:
+        m_Texture: {fileID: 2800000, guid: 3fa45b83f90b02c4885c02ea4ea821d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal_Tex:
+        m_Texture: {fileID: 2800000, guid: 0f173547ceff61c49b9af4cb05a9d5d9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Dirtiness: 1
+    - _IsThereAMaskMap: 1
+    - _LIGHTS: 0
+    - _Metalic: 0
+    - _Smoothness: 0
+    - _StrokeBlendingNoiseStrength: 0.5
+    - _StrokeRandomness: 0.472
+    - _UseCustomMetalicRoughnessMap: 1
+    m_Colors:
+    - _Color: {r: 0.45294118, g: 0.29362977, b: 0.06862744, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

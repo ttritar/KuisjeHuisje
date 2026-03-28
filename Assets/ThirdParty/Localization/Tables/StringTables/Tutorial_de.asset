@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 7b5cd2e3977122c419a5de0096cb6510, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11602919424
+    m_Localized: "Hallo mein Lieber. Ich bin der gro\xDFe Zauberer! Ich werde dir
+      erkl\xE4ren, was du hier in den verschiedenen Welten tun musst. Aber zuerst
+      lass uns mal diese <b>dreckigen H\xE4user putzen</b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4585097166848
+    m_Localized: "Wow hast du super gemacht! Das Haus sieht so sch\xF6n aus. <b>Lass
+      uns jemanden suchen, mit dem du hier wohnen willst. </b>Was denkst du dar\xFCber?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4544466944000
+    m_Localized: Gut gemacht! Da ist aber jetzt noch eine Sache die ich dir noch
+      nicht gesagt habe... Es gibt <b>mehrere Welten</b>! Jede dieser Welten stellt
+      eine <b>Emotion</b> dar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52128799756288
+    m_Localized: Bereit?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1733731787636736
+    m_Localized: "Klicke irgendein dreckiges Haus an damit du anfangen kannst zu
+      putzen. Klicke NUR die <b>Schw\xE4mme <sprite=\"Icons\" name=\"Sponge\"> </b>
+      an und <b>nicht</b> den <b>Schlammball <sprite=\"Icons\" name=\"Mud\"> </b>!
+      Probiere es mal!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1736163624124416
+    m_Localized: 'Suche dir eine Person mit der du reden kannst, indem du <b>sie
+      anklickst</b>. Sorg, dass sie <b>dir folgt</b> (<sprite="Icons" name="Follow">).
+      Dann bringst du sie zu einem sauberen Haus und <b>klickst darauf</b>, damit
+      sie darin wohnen kann!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739207040466944
+    m_Localized: "Du kannst diese Welten mit <b>den Tr\xE4nken am unteren Rand des
+      Bildschirms bereisen</b>. Klicke sie nur an. Es ist auch m\xF6glich Personen
+      mitzunehmen. Aber sie m\xFCssen <b>dir folgen</b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739640119132160
+    m_Localized: "Jetzt geh und erkunde die Welten! Putzte H\xE4user und gib den
+      Leuten ein Zuhause in jeder Welt, die du magst. Ich werde hier bleiben, damit
+      ich dir alles nochmal erkl\xE4ren kann."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4631843703259136
+    m_Localized: "Oh! Was ist das denn? Vielleicht k\xF6nnen wir das jemandem geben,
+      wenn wir mit ihm sprechen (<sprite=\"Icons\" name=\"Gift\">). Was meinst du?"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 7b5cd2e3977122c419a5de0096cb6510, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11602919424
+    m_Localized: I am the Wizard! I'll be explaining what you have to do in these
+      different worlds. Let's start with making these <b>dirty houses look a bit
+      cleaner</b>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4585097166848
+    m_Localized: Amazing work! This house is so pretty now. <b>Let's go find someone
+      to live here with you.</b> What do you think?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4544466944000
+    m_Localized: Great job! Now there is only one more thing I didn't tell you...
+      There are <b>multiple worlds</b>, each representing an <b>emotion</b>!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52128799756288
+    m_Localized: Ready?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1733731787636736
+    m_Localized: Tap on any dirty house to start cleaning it. Only click the <b>clean
+      sponges <sprite="Icons" name="Sponge"> </b> and <b>not</b> the <b>dirty mud
+      puddles <sprite="Icons" name="Mud"> </b>! Let's try it!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1736163624124416
+    m_Localized: Walk around and find someone to talk to, you can do so by <b>clicking
+      on them</b>. Make them <b>follow</b> you (<sprite="Icons" name="Follow">) to
+      a clean house and <b>click</b> the house to make them live there!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739207040466944
+    m_Localized: You can travel to these worlds by clicking one of the <b>potions
+      at the bottom of the screen</b>. It's also possible to take someone with you
+      if they are <b>following you</b>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739640119132160
+    m_Localized: Now go and explore the worlds! Clean some houses and give people
+      a house in any world you want. I'll be here in case you need a refresher on
+      what to do.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4631843703259136
+    m_Localized: Ooh! What's this? Maybe we can give this to someone when we talk
+      to them (<sprite="Icons" name="Gift">). What do you think?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

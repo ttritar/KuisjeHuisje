@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Dutch (nl)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Dutch (nl)
+  m_GUID: f9beafecb58037f4d9d43b4cd77c095f
+  m_SerializeEntries:
+  - m_GUID: 39d9faa97af517d498b088e23469e32b
+    m_Address: Tutorial_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cd02d68b304cc44c92cc16417efaaf6
+    m_Address: Relationships_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a63d19d3a041f24e9079ab85f13222f
+    m_Address: Map_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c0d4a06fc4c27248af81c0d7d800698
+    m_Address: StickerbookUI_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5efd2527935ad144a84dd1ba9923087
+    m_Address: Kernboodschappen_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca67837d173391c498012c8ed06143aa
+    m_Address: Settings_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e96573e7cb226124ca4f550835b4aaab
+    m_Address: Emotions_nl
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-nl
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 0dd07ddab8490e24b8e97b7707d5655c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 11b5ab41e6a449946955d4fe84ca7c25, type: 2}
+    - {fileID: 11400000, guid: b20e9f4005fed484f828f72b7f10d8cf, type: 2}

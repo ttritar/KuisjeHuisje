@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_nl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl
+  m_SharedData: {fileID: 11400000, guid: 7b5cd2e3977122c419a5de0096cb6510, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11602919424
+    m_Localized: Ik ben de Tovenaar! Ik zal uitleggen wat je moet doen in deze verschillende
+      werelden. Laten we beginnen met deze <b>vieze huizen eens op te kuisen</b>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4585097166848
+    m_Localized: 'Geweldig werk! Dit huis is nu zo mooi. <b>Laten we iemand zoeken
+      die hier bij jou kan wonen.</b> Wat denk je?
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4544466944000
+    m_Localized: "Goed gedaan! Nu is er nog \xE9\xE9n ding dat ik je vergeten ben
+      te vertellen... Er zijn <b>meerdere werelden</b>, die elk een <b>emotie</b>
+      vertegenwoordigen!\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52128799756288
+    m_Localized: Klaar?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1733731787636736
+    m_Localized: Klik op een vies huis om het schoon te maken. Klik alleen op de
+      <b>schone sponzen <sprite="Icons" name="Sponge"> </b> en <b>niet</b> op de
+      <b>vieze modder <sprite="Icons" name="Mud"> </b>! Laten we het proberen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1736163624124416
+    m_Localized: 'Loop rond en zoek iemand om mee te praten. Je kunt dit doen door
+      <b>op diegene te klikken</b>. Laat ze jou <b>volgen</b> (<sprite="Icons" name="Follow">)
+      naar een schoon huis en <b>klik</b> erop om hen daar te laten wonen!
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739207040466944
+    m_Localized: 'Je kunt naar deze werelden reizen door op een van de <b>tover drankjes
+      onder aan het scherm te klikken</b>. Je kunt ook iemand <b>meenemen</b> als
+      diegene je <b>volgt</b>.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739640119132160
+    m_Localized: 'Ga nu de werelden verkennen! Maak wat huizen schoon en geef mensen
+      een huis in elke wereld die je wilt. Ik zal bij mijn tovernaarstoren zijn als
+      je hulp nodig zou hebben.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4631843703259136
+    m_Localized: Ooh! Wat is dit? Misschien kunnen we dit aan iemand gaan geven als
+      we met die persoon praten (<sprite="Icons" name="Gift">). Wat denk je?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

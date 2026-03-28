@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5663282088595142966
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6711071785413217043}
+  - component: {fileID: 2033754850615468741}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6711071785413217043
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5663282088595142966}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2033754850615468741
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5663282088595142966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5361af129a532e24a98d2005cb52c06d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _dontDestroyOnLoad: 1
+  _pitchRange: {x: 0.9, y: 1.1}
+  _soundList:
+  - name: ExpressEmotionHappy
+    randomPitch: 1
+    sounds:
+    - clip: {fileID: 8300000, guid: e3155ce3da687c746bdf8bf87fa23595, type: 3}
+      baseVolume: 1
+      volume: 0
+  - name: ExpressEmotionSad
+    randomPitch: 1
+    sounds:
+    - clip: {fileID: 8300000, guid: 471fa316936182b4183a95daa90f6ba8, type: 3}
+      baseVolume: 1
+      volume: 0
+  - name: ExpressEmotionAngry
+    randomPitch: 1
+    sounds:
+    - clip: {fileID: 8300000, guid: 46de0c96c117a5744920fdc5a5c42904, type: 3}
+      baseVolume: 1
+      volume: 0
+  - name: ExpressEmotionScared
+    randomPitch: 1
+    sounds:
+    - clip: {fileID: 8300000, guid: e92ba9262cc69234bbd64314e7bed341, type: 3}
+      baseVolume: 1
+      volume: 0
+  - name: PotionThrow
+    randomPitch: 1
+    sounds:
+    - clip: {fileID: 0}
+      baseVolume: 1
+      volume: 0
+  - name: PotionBreak
+    randomPitch: 1
+    sounds:
+    - clip: {fileID: 8300000, guid: 4feae7869c43477479a84818e6fef037, type: 3}
+      baseVolume: 1
+      volume: 0
+    - clip: {fileID: 8300000, guid: 708497202ea1d8d4b84d0418cf9d2fab, type: 3}
+      baseVolume: 1
+      volume: 0
+    - clip: {fileID: 8300000, guid: d420ad65bae93b940959eeda75b9b3e3, type: 3}
+      baseVolume: 1
+      volume: 0
+  - name: StickerPickUp
+    randomPitch: 1
+    sounds:
+    - clip: {fileID: 8300000, guid: 4d4df582723143740b4e428c9d7f127d, type: 3}
+      baseVolume: 1
+      volume: 0
+    - clip: {fileID: 8300000, guid: ae0e73daca9ef304689769cb121e3bcf, type: 3}
+      baseVolume: 1
+      volume: 0
+    - clip: {fileID: 8300000, guid: 71e85a2ce783fc741afbe4b0a71d271a, type: 3}
+      baseVolume: 1
+      volume: 0
+  _effectPoolSize: 5
+  _musicList:
+  - name: MainMenu
+    _music:
+      clip: {fileID: 0}
+      baseVolume: 0
+      volume: 1
+  - name: Happy
+    _music:
+      clip: {fileID: 0}
+      baseVolume: 0
+      volume: 1
+  - name: Sad
+    _music:
+      clip: {fileID: 0}
+      baseVolume: 0
+      volume: 1
+  - name: Angry
+    _music:
+      clip: {fileID: 0}
+      baseVolume: 0
+      volume: 1
+  - name: Scared
+    _music:
+      clip: {fileID: 0}
+      baseVolume: 0
+      volume: 1

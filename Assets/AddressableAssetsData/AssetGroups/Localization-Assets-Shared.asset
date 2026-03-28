@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: 120c43a0c5998f94f91e76b97539e088
+  m_SerializeEntries:
+  - m_GUID: 50d91583a6d0fbe4eaa22b6b9254804b
+    m_Address: Assets/ThirdParty/Localization/Tables/StringTables/Map Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c91720e09153d14987c18572d4d3fc3
+    m_Address: Assets/ThirdParty/Localization/Tables/StringTables/StickerbookUI Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67eb1ecfdb1bc4d449b4b3fb2015b2be
+    m_Address: Assets/ThirdParty/Localization/Tables/StringTables/Kernboodschappen
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b5cd2e3977122c419a5de0096cb6510
+    m_Address: Assets/ThirdParty/Localization/Tables/StringTables/Tutorial Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c65fb87414df08429b94587aa2e61e8
+    m_Address: Assets/ThirdParty/Localization/Tables/StringTables/Relationships Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90fcac4b42419224ba375bd1caa26625
+    m_Address: Assets/ThirdParty/Localization/Tables/StringTables/Emotions Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df9a9fc88b152584fa72b6caee906876
+    m_Address: Assets/ThirdParty/Localization/Tables/StringTables/Settings Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 0dd07ddab8490e24b8e97b7707d5655c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 61ed63f261977694ab1fddbfb3ce7f52, type: 2}
+    - {fileID: 11400000, guid: be3841ee894452f42ba2a44e90d2a955, type: 2}

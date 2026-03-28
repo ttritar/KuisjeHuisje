@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Kernboodschappen_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 67eb1ecfdb1bc4d449b4b3fb2015b2be, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9811185664
+    m_Localized: Es ist nicht deine Schuld.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 251075940352
+    m_Localized: Du bist nicht allein.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 685811355648
+    m_Localized: "Du bist nicht schuld f\xFCr die Streits deiner Eltern."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 837607411712
+    m_Localized: "Viele Kinder wachsen in einer Familie auf, in der es oft gro\xDFe
+      Streits gibt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 443623854080
+    m_Localized: "Du darfst dar\xFCber reden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 922168774656
+    m_Localized: Wir wissen, dass es schwierig ist und das du niemanden verletzen
+      willst.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 581436100608
+    m_Localized: Du bist nicht alleine.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1027890401280
+    m_Localized: "Gemeinsam suchen wir nach Menschen, die dich unterst\xFCtzen k\xF6nnen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12033890897920
+    m_Localized: "Deine Gef\xFChle d\xFCrfen da sein."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12587526443008
+    m_Localized: "Menschen d\xFCrfen einander nicht wehtun."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12543612080128
+    m_Localized: "Es ist normal, dass du dich \xE4ngstlich, w\xFCtend, traurig oder
+      besorgt f\xFChlst."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12600746889216
+    m_Localized: "Es ist wichtig, dass dies aufh\xF6rt."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

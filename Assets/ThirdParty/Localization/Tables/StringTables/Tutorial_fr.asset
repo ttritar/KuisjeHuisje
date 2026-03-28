@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 7b5cd2e3977122c419a5de0096cb6510, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11602919424
+    m_Localized: "Je suis le Sorcier ! Je suis celui qui va t'expliquer ce qu'il
+      faut faire dans ces diff\xE9rents mondes. Commen\xE7ons par rendre ces <b>maisons
+      un peu plus propres</b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4585097166848
+    m_Localized: Superbe travail ! La maison est vraiment magnifique maintenant.
+      <b>On devrait trouver quelqu'un pour vivre ici avec toi.</b> Qu'en penses-tu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4544466944000
+    m_Localized: "Tr\xE8s bien! Maintenant, il ne me reste plus qu'une chose \xE0
+      te dire... Il y a <b>plusieurs mondes, chacun repr\xE9sentant une <b>\xE9motion</b>!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52128799756288
+    m_Localized: "Pr\xEAt?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1733731787636736
+    m_Localized: "Clique une des maisons sales pour commencer \xE0 la nettoyer. S\xE9lectionne
+      uniquement sur les <b>\xE9ponges propres <sprite=\"Icons\" name=\"Sponge\">
+      </b> et <b>\xE9vite les flaques de boues <sprite=\"Icons\" name=\"Mud\"> </b>!
+      Essaie!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1736163624124416
+    m_Localized: "Explore les environs et trouve quelqu'un \xE0 qui parler. Tu peux
+      le faire <b>en cliquant sur eux</b>. Demande leur de <b>te suivre</b> (<sprite=\"Icons\"
+      name=\"Follow\">) jusqu'\xE0 une maison propre et <b>clique</b> dessus pour
+      qu'ils y emm\xE9nagent!\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739207040466944
+    m_Localized: "Tu peux voyager vers un de ces mondes en cliquant sur <b>des potions
+      en bas de l'\xE9cran</b>. Il est \xE9galement possible d'emmener quelqu'un
+      avec toi si cette personne <b>te suis</b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1739640119132160
+    m_Localized: Maintenant va, et explore ces mondes! Nettoie des maisons et offre
+      les aux gens. Je serais ici si tu as besoin d'un rappel.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4631843703259136
+    m_Localized: "Oh ! Qu'est-ce que c'est ? On pourrait peut-\xEAtre le donner \xE0
+      quelqu'un en lui parlant (<sprite=\"Icons\" name=\"Gift\">). Qu'en penses-tu
+      ?"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

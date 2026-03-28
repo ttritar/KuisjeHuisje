@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Relationships_nl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl
+  m_SharedData: {fileID: 11400000, guid: 8c65fb87414df08429b94587aa2e61e8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 26886197248
+    m_Localized: Mama
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66237157376
+    m_Localized: Papa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74814509056
+    m_Localized: Zus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 581880696832
+    m_Localized: Vriend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 728198991872
+    m_Localized: Opa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 586779643904
+    m_Localized: Oma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 763590529024
+    m_Localized: Oom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 777997963264
+    m_Localized: Tante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 988325531648
+    m_Localized: Buur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 903416041472
+    m_Localized: Neef/Nicht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 584539885568
+    m_Localized: Leraar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 577308905472
+    m_Localized: Broer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100033748455424
+    m_Localized: Psycholoog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7593480105414656
+    m_Localized: Huisdier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10134106709610496
+    m_Localized: Onbekende
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11292617590099968
+    m_Localized: Tovenaar
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

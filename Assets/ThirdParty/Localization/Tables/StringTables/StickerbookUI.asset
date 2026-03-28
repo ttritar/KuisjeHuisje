@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: StickerbookUI
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 5c91720e09153d14987c18572d4d3fc3, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 3bea1eff916b93d4c862aa0a7ed2cde8, type: 2}
+  - {fileID: 11400000, guid: 53ac35af6a0e58649a0bded53dc619b0, type: 2}
+  - {fileID: 11400000, guid: 3c8901b306bdaac469c544b9efceaac7, type: 2}
+  - {fileID: 11400000, guid: 9c0d4a06fc4c27248af81c0d7d800698, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []
